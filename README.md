@@ -37,7 +37,6 @@ This project presents a detailed **data analysis of Apple iPhone sales on Flipka
 
 ### 1. 🏆 Top 10 Highest-Rated iPhones on Flipkart
 - Based on `Star Rating` and visualized using a horizontal bar plot
-- ![Top Rated iPhones](top_rated_iphones.png)
 
 ![top_rated_iphones](https://github.com/user-attachments/assets/2ab5dbd3-365b-4b3a-93d7-c2772e82b2ab)
 
@@ -51,7 +50,6 @@ This project presents a detailed **data analysis of Apple iPhone sales on Flipka
 ### 4. 🔗 Correlation: Sale Price vs Number of Ratings
 - **Pearson Correlation**: `-0.70`
 - Insight: Higher-priced iPhones tend to get fewer ratings
-- ![Price vs Ratings](saleprice_vs_ratings.png)
 
 ![saleprice_vs_ratings](https://github.com/user-attachments/assets/7f277ac5-d5b0-4e7c-9c95-385468b7f3b2)
 
@@ -59,7 +57,6 @@ This project presents a detailed **data analysis of Apple iPhone sales on Flipka
 ### 5. 📉 Correlation: Discount % vs Number of Ratings
 - **Pearson Correlation**: `+0.68`
 - Insight: iPhones with higher discounts attract more ratings
-- ![Discount vs Ratings](discount_vs_ratings.png)
 
 ![discount_vs_ratings](https://github.com/user-attachments/assets/0607ffc2-d67b-4106-af3c-760447424fa6)
 
