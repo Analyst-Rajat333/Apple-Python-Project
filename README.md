@@ -86,8 +86,14 @@ This project presents a detailed **data analysis of Apple iPhone sales on Flipka
 
 ---
 
-## 🚀 How to Run This Project
+## 🔗 GitHub Repository Link
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Analyst-Rajat333/Apple-Python-Project.git
+https://github.com/Analyst-Rajat333/Apple-Python-Project
+
+---
+
+## 👨‍💻 Author
+
+**Rajat Saxena**  
+📧 **Email**: [rajatsaxena950@gmail.com](mailto:rajatsaxena950@gmail.com)  
+🔗 **GitHub**: [Analyst-Rajat333](https://github.com/Analyst-Rajat333)
